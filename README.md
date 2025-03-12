@@ -1,12 +1,15 @@
-# React + Vite
+**App base React**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esempio di una semplice pagina web realizzata con React che presenta delle informazioni relative ai fondamenti della libreria.
 
-Currently, two official plugins are available:
+Questa applicazione è stata realizzata con l'unico scopo di ripassare gli elementi principali e di base di React:
+- utilizzo delle componenti
+- funzionamento delle props per passare i dati e valori delle funzioni
+- funzionamento della sintassi jsx
+- gestire le funzioni e le interazioni per creare pulsanti che attivano delle tabs
+-gestire in modo dinamico lo stile di pulsanti aggiungendo una classe CSS
+- creare contenuti dinamici aggiornando lo stato attraverso useState
+- creare contenuti utilizzando delle condizioni
+- aggiungere dati e popolare le pagine web in modo dinamico e compatto attraverso il metodo map()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
