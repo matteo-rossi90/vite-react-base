@@ -5,7 +5,7 @@
     box-shadow: 0 2px 8px rgba(0,0,0, 0.4);
 }
 
-#core-concepts ul{
+#core-concepts ul {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -20,17 +20,16 @@
     text-align: center;
 }
 
-#core-concepts li img{
-    width: 6rem;
+#core-concepts li img {
     height: 4rem;
+    width: 6rem;
     object-fit: cover;
 }
 
-#core-concepts li h3{
+#core-concepts li h3 {
     margin: 0.5rem 0;
 }
 
-#core-concepts li p{
+#core-concepts li p {
     font-size: 0.9rem;
 }
-

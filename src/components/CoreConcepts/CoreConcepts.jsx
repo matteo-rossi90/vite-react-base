@@ -1,4 +1,4 @@
-import './CoreConcepts'
+import './CoreConcepts.css'
 
 export default function CoreConcepts({image, title, description}){
     return (
